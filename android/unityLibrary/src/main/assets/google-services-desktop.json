@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "742451723543",
+    "firebase_url": "https://froggy-f3a66-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "froggy-f3a66",
+    "storage_bucket": "froggy-f3a66.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742451723543:android:940c4a9f41db4df2adcb52",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Froggy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJZ22stqJQfmHbXjlEZfV9qcuWcZZ5Wqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
